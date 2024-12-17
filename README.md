@@ -4,3 +4,5 @@
 mvn clean package -DskipTests
 sudo docker compose up --build
 ```````````````````````````````````
+# postman collection
+the postman collection are in 
